@@ -12,11 +12,11 @@ public class RemoveElement {
 		element.add(30);
 		element.add(15);
 		element.add(7);
-		System.out.println(element);
+		System.out.println("ArrayList :" + element);
 		
 		//Remove Third Element
 		element.remove(2);
-		System.out.println(element);
+		System.out.println("After remove third element :" + element);
 	}
 }
 
